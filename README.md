@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on in ActionSystems
+- 🔭 I’m currently working on ActionSystems
 - 🌱 I’m currently learning React, React Native, NodeJS, JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/guilherme-santos-652b49174/
 
