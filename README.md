@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on in ActionSystems
+- 🌱 I’m currently learning React, React Native, NodeJS, JavaScript
+- 📫 How to reach me: https://www.linkedin.com/in/guilherme-santos-652b49174/
+
 <!--
 **guuilhermessantos/guuilhermessantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
