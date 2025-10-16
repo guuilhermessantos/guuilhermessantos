@@ -98,18 +98,6 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guuilhermessantos/guuilhermessantos/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/guuilhermessantos/guuilhermessantos/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
