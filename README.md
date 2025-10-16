@@ -59,8 +59,9 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuilhermessantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuilhermessantos&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guuilhermessantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuilhermessantos&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <br/>
 </div>
 
 <div align="center">
