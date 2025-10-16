@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guilherme%20Santos&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=57&animation=fadeIn"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gsantos.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gsantos.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guuilhermessantos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santos-652b49174/)
 [![GitHub followers](https://img.shields.io/github/followers/guuilhermessantos?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guuilhermessantos)
 
   <br/>
