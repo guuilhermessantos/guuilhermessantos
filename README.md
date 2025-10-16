@@ -29,7 +29,19 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,styledcomponents,nodejs,express,postgres,docker,git,github,figma&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,styledcomponents,nodejs,express,postgres,docker,git,github,figma&perline=99"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guuilhermessantos/guuilhermessantos/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/guuilhermessantos/guuilhermessantos/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 </div>
 
