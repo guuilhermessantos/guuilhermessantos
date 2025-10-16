@@ -8,11 +8,16 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: snake-${{ github.ref }}
+      cancel-in-progress: true
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: guuilhermessantos
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -22,6 +27,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
