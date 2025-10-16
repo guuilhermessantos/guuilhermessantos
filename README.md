@@ -15,15 +15,11 @@
 
 ## 🚀 About Me
 
-```typescript
-const guilherme = {
-  location: "Inside the Rocket 🚀",
-  role: "Full Stack Developer",
-  focus: ["Web Development", "Mobile Apps", "Scalable Solutions"],
-  currentlyLearning: "Always exploring new technologies",
-  funFact: "I turn coffee into code ☕→💻"
-};
-```
+- **Location**: Inside the Rocket 🚀
+- **Role**: Full Stack Developer
+- **Focus**: Web Development · Mobile Apps · Scalable Solutions
+- **Learning**: Always exploring new technologies
+- **Fun fact**: I turn coffee into code ☕→💻
 
 I'm passionate about creating **efficient and scalable** web and mobile applications. With expertise in modern frameworks and a keen eye for detail, I transform ideas into reality.
 
@@ -71,28 +67,13 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 
 ## 💼 What I Do
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Guilherme Santos";
-    this.role = "Full Stack Developer";
-  }
+“Thanks for dropping by! Let's build something amazing together.”
 
-  sayHi() {
-    console.log("Thanks for dropping by! Let's build something amazing together.");
-  }
-
-  work() {
-    return [
-      "🎨 Crafting beautiful user interfaces",
-      "⚡ Building high-performance applications",
-      "📱 Developing cross-platform mobile apps",
-      "🔧 Creating scalable backend solutions",
-      "🚀 Always learning and improving"
-    ];
-  }
-}
-```
+- 🎨 Crafting beautiful user interfaces
+- ⚡ Building high-performance applications
+- 📱 Developing cross-platform mobile apps
+- 🔧 Creating scalable backend solutions
+- 🚀 Always learning and improving
 
 ---
 
