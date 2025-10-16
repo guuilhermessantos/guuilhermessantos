@@ -86,12 +86,9 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-[![Guilherme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guuilhermessantos&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guuilhermessantos/guuilhermessantos/output/github-contribution-grid-snake-dark.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/guuilhermessantos/guuilhermessantos/output/github-contribution-grid-snake.svg" />
