@@ -45,7 +45,7 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 
 <div align="center">
   
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=guuilhermessantos&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&date_format=j%20M%5B%20Y%5D&card_width=700&cache_seconds=21600"/>
+  <img alt="GitHub Streak" src="https://streak-stats.vercel.app/?user=guuilhermessantos&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&date_format=j%20M%5B%20Y%5D&card_width=700&cache_seconds=21600"/>
 
 </div>
 
