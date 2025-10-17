@@ -115,7 +115,7 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 I'm always interested in hearing about new projects and opportunities!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-000?style=for-the-badge)](https://gsantos.vercel.app)
-[![Email](https://img.shields.io/badge/📧_Email-Get_in_Touch-EA4335?style=for-the-badge)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/📧_Email-Get_in_Touch-EA4335?style=for-the-badge)](mailto:guuilhermessantos@hotmail.com)
 
 </div>
 
