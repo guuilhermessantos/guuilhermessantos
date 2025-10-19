@@ -29,7 +29,7 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 
 <div align="center">
 
-  <img alt="tech stack" src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,styledcomponents,nodejs,express,postgres,docker,git,github,figma&perline=16"/>
+  <img alt="tech stack" src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,styledcomponents,nodejs,express,php,postgres,docker,git,github,figma&perline=16"/>
 
 </div>
 
