@@ -39,7 +39,7 @@ I'm passionate about creating **efficient and scalable** web and mobile applicat
 
 <div align="center">
 
-  <img alt="currently learning" src="https://skillicons.dev/icons?i=php,golang,python&perline=3"/>
+  <img alt="currently learning" src="https://skillicons.dev/icons?i=python&perline=1"/>
 
 </div>
 
